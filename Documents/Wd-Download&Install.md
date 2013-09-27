@@ -1,4 +1,3 @@
-
 WiperDog is not monolithic software, it need some required software installed.
 
 Before Installing WiperDog solution, check the prerequisite:  
@@ -47,4 +46,6 @@ Change the value of WIPERDOGHOME to the directory you unpacked WiperDog assembly
 The value of "dest: " is what you need to change, for this version, just change like this:  
 
     dest: [ [ http: "localhost:13111/spool/tfm_test" ] ],  
-3. 
+
+Download WiperDog XWiki app then install
+---------------------------------
